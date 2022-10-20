@@ -30,4 +30,4 @@
 
 ##
 
-![Snake animation](https://github.com/juniormothe/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/juniormothe/juniormothe/blob/output/github-contribution-grid-snake.svg)
